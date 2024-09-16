@@ -7,7 +7,8 @@
 # BlueJ files
 *.ctxt
 
-*/videos/
+./3349-boas-praticas-java-testes-projeto_inicial.zip
+*/videos
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
