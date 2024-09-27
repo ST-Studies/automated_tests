@@ -4,9 +4,16 @@
 # Log file
 *.log
 
+# Envi
+*/envi
+
+# Pycache
+*/__pycache__
+
 # BlueJ files
 *.ctxt
 
+# Videos
 */videos
 
 # Mobile Tools for Java (J2ME)
