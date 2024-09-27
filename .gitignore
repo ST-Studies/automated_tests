@@ -16,6 +16,9 @@ __pycache__/
 # Videos
 videos/
 
+# Documentos
+# documents/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
