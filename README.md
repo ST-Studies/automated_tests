@@ -1,2 +1,2 @@
-# java
+# automated_tests
 Studies about Java
